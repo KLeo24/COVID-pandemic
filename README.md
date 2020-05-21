@@ -13,6 +13,7 @@ Symptoms may appear **2-14 days after exposure to the virus**. People with these
 - Muscle Pain
 - Sore throat
 - New loss of taste or smell
+
 This list is not all possible symptoms. Other less common symptoms have been reported, including gastrointestinal symptoms like nausea, vomitiing, or diarrhea.
 ### When to Seek Medical Attention
 Look for **emergency warning sign\*** for Covid-19. If someone is showing any of these signs **seek emergency care immediately**
