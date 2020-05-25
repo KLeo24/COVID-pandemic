@@ -34,11 +34,12 @@ This list is not all possible symptoms. Please call your medical provider for an
 - [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
 - [People at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
 - [Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
-
+### Testing
 ### Testing for Covid-19
 Two kinds of tests are available for Covid-19: [Virus Tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) and [Antibody Tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html).
 - A viral test tells you if you have a current infection.
 - An antibody test tells if if you had a previous infection.
+
 An antibody test may not be able to show if you have a current infection, because it can take 1-3 weeks after infection to make antibodies. We do not know yet if having antibodies to the virus and prevent someone from getting infected again, or how long that protection might last.
 
 ### Who should be tested
