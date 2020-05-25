@@ -93,4 +93,45 @@ More information
 - [U.S. Food and Drug Administration FAQs on viral testing for SARS-Cov-2](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-testing-sars-cov-2)
 - [CDC: Frequently Asked Questions on Symptoms and Testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
 
+### Testing for Past Infection (Antibody Test)
+Antibody tests check your blood by looking for antibodies, which can show you if you had a past infection with the virus that causes Covid-19. Antibodies are proteins that help fight off infections and usually provide protection against getting that disease again (immunity). Antibodies are disease specific. For example, measles antibody will protect a person who is exposed to measles but will have no effect if the person is exposed to mumps. 
+
+Depending on when someone was infected and the timing of the test, the test may not find antibodies in someone with a current Covid-19 infection. Antibody tests should not be used to diagnose COVID-19. To see if you are currently infected, you need a [viral test.](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) Viral tests identify the virus in samples from your respiratory system, such as swabs from the inside of your nose. 
+
+### How to get an antibody test
+Antibody tests for Covid-19 are available through healthcare providers and laboratories. Check with your healthcare providers to see if they offer antibody tests and whether you should get one. 
+
+### What do your results mean
+#### If you test positive
+- A positive test result shows that you may have antibodies from an infection with the virus that causes Covid-19, or possibly from infection with a related virus of the same family of viruses (called coronavirus), such as one that causes the common cold.
+- We do not know yet if having antibodies to the virus that causes Covid-19 can protect someone from getting infected again or, if they do, how long this protection might last.
+- Talk with your healthcare provider about your test result and the type of test you took to understand what your result means. Your provider may suggest you take a second type of antibody test to see if the first test was accurate.
+- **If you have no symptoms,** you likely do not have an active an active infection and no additional follow-up is needed.
+- **If you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)** and meet other [criteria for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html), you would need another type of test called a [viral test.](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) 
+- You might test positive for antibodies even if you never had symptoms of Covid-19. This can happen if you had an infection without symptoms (also called an asymptomatic infection)
+
+#### If you test negative
+- You may not have had Covid-19 before. Talk with your healthcare provider about your test result and the type of test you took to understand what your test result means. 
+- You could still have a current infection.
+- **If you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)** or develop symptoms after the antibody test and you meet [criteria for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html), you would need a viral test. This test uses respiratory samples to confirm Covid-19. An antibody (blood) test cannot tell you if you are currently sick with Covid-19.
+
+Regardless of whether you test positvie or negative, the results do not confirm wheter or not you are able to spread the virus that causes Covid-19. Until we know more, continue to take steps to [protect yourself and others.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) 
+
+**For healthcare professionals**
+For CDC interim guidance on antibody testing in clinical and public health settings, see [Interim Guidelines for Covid-19 Antibody Testing](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html)
+
+### CDC's work in antibody testing
+**CDC is evaluating commercial antibody tests**
+CDC is collaborating with other government agencies to [evaluate the performance](https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html) of commercially manufactured antibodies tests. Some of these tests have received Emergency Use Authorization from the U.S. Food and Drug Administration (FDA).
+
+For more information:
+- [FDA Emergency Use Authorizations for Covid-19](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ivd)
+- [Insight into FDA's revised policy on Antibody Tests: Prioritizing Access and Accuracy](https://www.fda.gov/news-events/fda-voices/insight-fdas-revised-policy-antibody-tests-prioritizing-access-and-accuracy)
+- [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+
+**CDC is conducting [serologic surveillance](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html)**
+CDC is looking at [data from antibody tests](https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html) to estimate the total number of people who have tested positive wiht the virus that causes Covid-19 in the United States. CDC is also using antibody testing to learn about how the body's immune system responds to the virus and to explore how the virus spreads among people exposed to it. The information CDC is looking at comes from many groups, including blood donors and household contacts of people who had symptoms and were diagnosed with Covid-19.
+
+CDC is supporting [state, local, tribal, and territorial laboratory capacity.](https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/laboratory.html)
+
 
