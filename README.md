@@ -40,7 +40,7 @@ Two kinds of tests are available for Covid-19: [Virus Tests](https://www.cdc.gov
 - A viral test tells you if you have a current infection.
 - An antibody test tells if if you had a previous infection.
 
-An antibody test may not be able to show if you have a current infection, because it can take 1-3 weeks after infection to make antibodies. We do not know yet if having antibodies to the virus and prevent someone from getting infected again, or how long that protection might last.
+An antibody test may not be able to show if you have a current infection, because it can take 1-3 weeks after infection to make antibodies. We do not know yet if having antibodies to the virus can prevent someone from getting infected again, or how long that protection might last.
 
 ### Who should be tested
 To learn if you have a current infection, viral tests are used. But not everyone needs this test.
@@ -83,7 +83,7 @@ The U.S. Food and Drug Administration (FDA) has authorized two viral tests that 
 ### What to do after a viral test
 To get your test result, please check with the group that performed your test, such as your healthcare provider or your health department. Check the CDC website to [locate your health department informtion.](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) How long it takes to get your results back depends on the test used. 
 - **If you test positive for Covid-19,** know what preventative steps to take [If You are Sick or Caring for Someone.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) 
-- **If you test negative for Covid-19,** you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean that you won't get sick later. This means you could still spread the virus. 
+- **If you test negative for Covid-19,** you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were not infected when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean that you won't get sick later. This means you could still spread the virus. 
 
 **For healthcare professionals**
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
